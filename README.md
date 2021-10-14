@@ -18,6 +18,9 @@ A pack I made that allows me to rip Movies and TV Shows from Disney+
 
 - Open Disney.bat and paste the link when asked to, and enter the **KEY** and the **KID** - The script should then start downloading and decrypting your content.
 
+
+**You may have to make a *Rips* folder in your C:// for the script to work**
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
