@@ -32,5 +32,3 @@ Please make sure to update tests as appropriate.
 [Rowrawer's Stream Detector](https://github.com/rowrawer/stream-detector)
 
 **Loads of other people's tools**
-
-Google - Let me know if you want this taking down - I gladly will - but fix your DRM (its shit)
